@@ -14,6 +14,7 @@ storage for user avatars.
 Achivements: Wrote unit tests (coverage 93%). 
 
 🗣️ Languages
+
 ![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Intermediate-yellow?style=flat-square)
