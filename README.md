@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Junior Python Developer focused on backend and REST API development. Experienced with FastAPI, Django, PostgreSQL, and Redis through practical projects. Interested in building scalable web services and improving backend architecture.
 <!--
 **NeFoRMaLiK-pixel/NeFoRMaLiK-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
