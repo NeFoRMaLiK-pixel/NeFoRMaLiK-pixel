@@ -18,7 +18,7 @@ Achivements: Wrote unit tests (coverage 93%).
 ![English](https://img.shields.io/badge/English-A2-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Intermediate-yellow?style=flat-square) ![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
 
 📫 How to reach me:  
-[LinkedIn](https://www.linkedin.com/in/ehor-shapovalov-3a9698345)
+[LinkedIn](https://www.linkedin.com/in/ehor-shapovalov-3a9698345)  [Telegram](https://t.me/@SuN_Sh1Ne11)
 <!--
 **NeFoRMaLiK-pixel/NeFoRMaLiK-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
